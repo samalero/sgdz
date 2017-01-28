@@ -15,5 +15,30 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/DevTools_v1.11.0.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/PurePerms_v1.3.7.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/AntiSpam_MCPE7.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/PocketMine-MP.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/tmp/TNTRun_v1.0.0.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/tmp/AntiSpam_MCPE7.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/PureChat_v1.4.0.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/ManyWorlds_v2.1.0.phar/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/DevTools_v1.11.0.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/PurePerms_v1.3.7.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/AntiSpam_MCPE7.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/PocketMine-MP.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/tmp/TNTRun_v1.0.0.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/tmp/AntiSpam_MCPE7.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/PureChat_v1.4.0.phar/" />
+          <root url="phar://$MODULE_DIR$/PocketMine/plugins/ManyWorlds_v2.1.0.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
